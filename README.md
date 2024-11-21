@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3d757fe1-9706-430e-a56e-51a322630027)Brain MRI Segmentation Project
+Brain MRI Segmentation Project
 This project performs brain tumor segmentation using deep learning models such as UNet and DeepLabV3+. The goal is to identify and segment brain tumors in MRI images.
 
 Dataset
