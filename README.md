@@ -8,15 +8,10 @@ Kaggle Dataset Link : https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmen
 How to Run
 Step 1: Download the Dataset
 Visit the Kaggle link provided above.
-Download the dataset .
-Step 2: Run the Jupyter Notebook
-Execute the notebook cells to train and evaluate the models.
-Step 3: Run the Streamlit App
-Navigate to the folder where app.py is located.
-Open a terminal or Command Prompt.
-Change the directory to the app folder by running:
+Step 2: Run the Streamlit App
+run: 
 cd path to app.py
-Type: streamlit run app.py
+streamlit run app.py
 Open the Streamlit app in your browser to test brain tumor segmentation on MRI images.
 ![image](https://github.com/user-attachments/assets/fb415ae9-a34e-4cb7-bf9d-6393bfcde751)
 ![image](https://github.com/user-attachments/assets/cbe88bc2-a6f3-42dc-8223-766cfcd668c4)
